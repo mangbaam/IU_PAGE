@@ -1,0 +1,22 @@
+.article table {
+  border: 1px solid gray;
+}
+.article table, th, td {
+  margin: 2px;
+}
+.article table th {
+  background-color: rgba(255, 204, 255, 0.6)
+}
+.article table td {
+  background-color: #f5e6ff;
+}
+.profile_name {
+  font-size: 2rem;
+  text-shadow: 2px 2px #1a1a1a;
+  color: white;
+  background-color: #666666 !important;
+  border-bottom: 3px solid;
+}
+#profile_picture{
+  width: 16rem;
+}
